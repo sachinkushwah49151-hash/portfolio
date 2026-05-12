@@ -11,7 +11,7 @@ const skills = [
   },
   {
     category: "Backend & data",
-    items: ["Node.jsMySQL", "MongoDB"],
+    items: ["Node.js", "MySQL", "MongoDB"],
   },
   {
     category: "Tools",
